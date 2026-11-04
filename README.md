@@ -57,7 +57,15 @@ A Flutter-based mobile application designed to make learning, practicing, and re
 
 ## Screenshots
 
-Screenshots of the application will be added here.
+![Screenshot 1](WhatsApp%20Image%202026-11-04%20at%203.12.32%20PM%20%281%29.jpeg)
+
+![Screenshot 2](WhatsApp%20Image%202026-11-04%20at%203.12.32%20PM%20%282%29.jpeg)
+
+![Screenshot 3](WhatsApp%20Image%202026-11-04%20at%203.12.32%20PM.jpeg)
+
+![Screenshot 4](WhatsApp%20Image%202026-11-04%20at%203.12.33%20PM.jpeg)
+
+![Screenshot 5](WhatsApp%20Image%202026-11-04%20at%203.12.34%20PM.jpeg)
 
 ## What I Learned
 
