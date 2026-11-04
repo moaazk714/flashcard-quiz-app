@@ -1,17 +1,75 @@
-# flashcard_quiz_app
+# Flashcard Quiz App
 
-A new Flutter project.
+A Flutter-based mobile application designed to make learning, practicing, and revising knowledge more interactive and organized.
+
+## Features
+
+- **Flashcard Management:** Create and manage flashcards with questions and answers.
+- **Category Organization:** Organize flashcards into different categories.
+- **Learning Progress:** Classify flashcards into New, Review, and Mastered.
+- **Rich Text Editing:** Format questions and answers using Flutter Quill.
+- **State Management:** Manage application state using Provider.
+- **Modern UI:** Clean interface with Google Fonts typography.
+
+## Technologies Used
+
+- Flutter
+- Dart
+- Provider
+- Flutter Quill
+- Google Fonts
+- Git & GitHub
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Dart SDK
+- Visual Studio Code or Android Studio
+- Android emulator or physical device
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/moaazk714/flashcard-quiz-app.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd flashcard-quiz-app
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the application:
+
+   ```bash
+   flutter run
+   ```
+
+## Screenshots
+
+Screenshots of the application will be added here.
+
+## What I Learned
+
+- Flutter UI development
+- Dart programming
+- Provider state management
+- Working with third-party packages
+- Debugging and problem-solving
+- Organizing Flutter project code
+
+## Developer
+
+Muhammad Moaaz
+
+GitHub: https://github.com/moaazk714
